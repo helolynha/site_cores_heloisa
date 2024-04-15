@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+/*CSS Document*/
+h2,h3{
+  background-color:#FC9;
+  border:1px dotted #999;
+  }
+ h4 a{
+     background-color:#9CC;
+     border:double;
+     font-family:"Courier New", Courier, monospace;	 
+ }
+.formatacao1{
+    background-color:blue;
+}	
+ #idUm{
+	 background-color:yellow;
+ }
+ #idDois{
+	 background-color:red;	 
+ }
+  #idTres{
+	  background-color:orange;
+ }
+ 
